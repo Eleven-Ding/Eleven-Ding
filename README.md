@@ -5,7 +5,7 @@ Hi there, I'm DingShiYi
 
 - 👦🏻 DingSHiYi
 - 🔭 Working as Senior Front-End Engineer @Tencent.
-- 🌱 Learning more in domain of Artificial Intelligence, Data Structure.
+- 🌱 Learning and Practising React、Koa2、NestJs....
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 Read more of contact me via Email 。
 - 📚 2022 Goals: Learn something new / Expand knowledge / Alive
