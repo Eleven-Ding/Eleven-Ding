@@ -1,5 +1,6 @@
-Hi there, I'm DingShiYi🍓
-An engineer and explorer.
+Hi there, I'm DingShiYi
+
+🍓An engineer and explorer.
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eleven-Ding&theme=tokyonight&layout=compact&line_height=27" width="360"/>
 
 👦🏻 DingSHiYi
