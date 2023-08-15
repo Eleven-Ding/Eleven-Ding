@@ -5,8 +5,8 @@ Hi there, I'm DingShiYi
 
 - 👦🏻 DingSHiYi
 - 🔭 Working as Senior Front-End Engineer @ByteDance.
-- 🌱 Learning and Practising React、Koa2、NestJs....
+- 🌱 Learning and Practising React、NodeJs....
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 Read more of contact me via Email 。
-- 📚 2022 Goals: Learn something new / Expand knowledge / Alive
+- 📚 2023 Goals: React Source Code ！
 Have a fun day!
